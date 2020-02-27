@@ -1,7 +1,7 @@
 '''
 Created on Feb 25, 2020
 
-@author: training_d5.01.02
+@author: pravin singh
 '''
 
 from selenium import webdriver
